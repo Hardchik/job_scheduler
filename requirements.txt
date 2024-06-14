@@ -1,6 +1,6 @@
 os
 sys
-psutil
+psutil==5.9.7
 subprocess
 json
 collections 
